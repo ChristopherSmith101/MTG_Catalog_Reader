@@ -1,0 +1,24 @@
+{
+  "name": "mtg_catalog_reader",
+  "version": "1.0.0",
+  "description": "MTG card collections can get very large as one collects more and more cards every day. For many, they will store these cards in cardboard storage boxes and later sift through them to find what they are looking for. This app would use QR codes to display what cards are in a given box. This would be extremely useful for game stores that sell bulk.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherSmith101/MTG_Catalog_Reader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherSmith101/MTG_Catalog_Reader/issues"
+  },
+  "homepage": "https://github.com/ChristopherSmith101/MTG_Catalog_Reader#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
